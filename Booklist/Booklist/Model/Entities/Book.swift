@@ -5,6 +5,9 @@
 //  Created by Marco Porcho on 03/10/20.
 //
 
+import Foundation
+import SwiftUI
+
 struct Book: Identifiable {
     var id: Int
     var title: String
