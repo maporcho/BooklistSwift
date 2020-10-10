@@ -5,6 +5,8 @@
 //  Created by Marco Porcho on 03/10/20.
 //
 
+import SwiftUI
+
 struct BookDetail {
     var id: String
     var bookId: Int
